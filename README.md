@@ -1,10 +1,11 @@
 # Sentiment Analysis on Movie Reviews
+***
 
-## Unigram and bi-gram cross validation score
+## unigram and bi-gram cross validation score
 ![Unigran](https://github.com/toraaglobal/SentimentAnalysis/blob/master/unigram-bigram-score.jpg)
 
-## Ngram cross validation score
+## ngram cross validation score
 ![ngram](https://github.com/toraaglobal/SentimentAnalysis/blob/master/ngram.jpg)
 
-## Accuracy Score on Kaggle 
+## accuracy Score on kaggle 
 ![Kaggle Score](https://github.com/toraaglobal/SentimentAnalysis/blob/master/kaggle_submission.jpg)
