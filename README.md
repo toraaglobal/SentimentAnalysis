@@ -1,6 +1,6 @@
 # Sentiment Analysis on Movie Reviews
 ***
-[Click here for the analysis report]()
+[Click here for the analysis report](https://github.com/toraaglobal/SentimentAnalysis/blob/master/HW_7_Tajudeen_Abdulazeez.pdf)
 
 [Click here for the source code in jupiter notebook](https://github.com/toraaglobal/SentimentAnalysis/blob/master/sentiment_analysis_movie_reviews_MNB_SVM.ipynb)
 ## unigram and bi-gram cross validation score
